@@ -65,7 +65,7 @@ Qualquer redistribuição ou modificação deve manter a autoria original e o cr
 
 ## 📩 Contato
 
-Caso tenha **dúvidas** ou **sugestões**, sinta-se à vontade para entrar em contato comigo diretamente no **Discord**: seinada10#4840.
+Caso tenha **dúvidas** ou **sugestões**, sinta-se à vontade para entrar em contato comigo por meio dos comentários do Youtube.
 
 ---
 
