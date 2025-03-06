@@ -7,11 +7,9 @@ version '1.0.0'
 author 'seinada10'
 
 client_scripts {
-	'config/config.lua',
 	'client.lua'
 }
 
 server_scripts {
-	'config/config.lua',
 	'server.lua'
 }
