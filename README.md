@@ -3,6 +3,9 @@
 **Anti-Limbo** é um sistema desenvolvido para **FiveM**, projetado para impedir que jogadores caiam no "limbo" do jogo. 
 Quando um jogador está em uma zona inacessível (coordenadas `z` muito baixas), ele é automaticamente teleportado para a garagem mais próxima, garantindo que ele não fique preso.
 
+## 🎥 Preview
+- [Youtube](https://www.youtube.com/watch?v=1EUSlMypZNs)
+
 ## 📌 Funcionalidades
 
 - **Detecção automática de "limbo"**: Monitora a posição do jogador para detectar se ele caiu em uma área fora do mapa (coordenadas `z` menores que -50, facilmente alterável).
