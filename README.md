@@ -5,6 +5,7 @@ Quando um jogador está em uma zona inacessível (coordenadas `z` muito baixas),
 
 ## 🎥 Preview
 - [Youtube](https://www.youtube.com/watch?v=1EUSlMypZNs)
+- [Discord de Suporte](https://discord.gg/hUVJwJcR8H)
 
 ## 📌 Funcionalidades
 
@@ -65,7 +66,7 @@ Qualquer redistribuição ou modificação deve manter a autoria original e o cr
 
 ## 📩 Contato
 
-Caso tenha **dúvidas** ou **sugestões**, sinta-se à vontade para entrar em contato comigo por meio dos comentários do Youtube.
+Caso tenha **dúvidas** ou **sugestões**, sinta-se à vontade para entrar em contato comigo por meio do [Discord de Suporte](https://discord.gg/hUVJwJcR8H)
 
 ---
 
